@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HORST Festival App</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_directions">Anfahrt</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_photo">Foto</string>
+    
+    <string name="title_section_bands">Bands</string>
+    <string name="title_section_news">Aktuelles</string>
+    <string name="title_section_runningorder">Spielplan</string>
+    <string name="title_section_favs">Favoriten</string>
+    <string name="title_section_infos">Infos</string>
+    <string name="title_section_map">Lageplan</string>
+    <string name="title_section_gallery">Galerie</string>
+    <string name="title_section_help">Hilfe</string>
+    <string name="title_section_rp">RP Online</string>
+    
+    <string name="horstit">horsten!</string>
+    <string name="progress_dialog_bandlist">Band Datenbank wird aktualisiert</string>
+    <string name="bigstage">Da Vorne</string>
+    <string name="smallstage">Da Hinten</string>
+    <string name="tentstage">Im Zelt</string>
+    <string name="stage">Bühne</string>
+    <string name="order_alphabetically">alphabetisch ordnen</string>
+    <string name="order_time">chronologisch ornden</string>
+    <string name="take_photo">Photo aufnehmen</string>
+    <string name="gallery">Galerie</string>
+    <string name="uploading">Lade Foto hoch&#8230;</string>
+
+</resources>
